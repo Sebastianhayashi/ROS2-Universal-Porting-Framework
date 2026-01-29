@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: ros_openeuler_tool
+Version: 1.0.0
+Summary: ROS Jazzy 移植与管理工具
+Home-page: https://github.com/yourusername/ros_openeuler_tool
+Author: Your Name
+Requires-Dist: click
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Requires-Dist: PyYAML
+Requires-Dist: networkx

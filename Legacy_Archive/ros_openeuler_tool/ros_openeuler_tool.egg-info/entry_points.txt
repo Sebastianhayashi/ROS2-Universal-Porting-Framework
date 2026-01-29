@@ -1,0 +1,3 @@
+[console_scripts]
+rot = ros_openeuler_tool.cli:cli
+

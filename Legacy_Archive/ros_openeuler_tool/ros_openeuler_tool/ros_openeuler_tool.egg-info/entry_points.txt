@@ -1,0 +1,4 @@
+[console_scripts]
+ros_openeuler_tool = ros_openeuler_tool.cli:cli
+rot = ros_openeuler_tool.cli:cli
+rtool = ros_openeuler_tool.cli:cli
