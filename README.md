@@ -17,7 +17,7 @@
 * **Architecture (架构):** 验证了 **x86_64, aarch64, riscv64** 的全链路构建能力。
 * **Compatibility (通用):** 架构具备跨系统扩展性，已成功在 **OpenKylin 2.0** 上完成核心包的源码级验证。
 
-🔗 **[Result Repository (EulerMaker)](https://eulermaker.compass-ci.openeuler.openatom.cn/api/ems1/repositories/jazzy_ament_package/openEuler%3A24.03-LTS/x86_64/)** | 
+🔗 **[Result Repository (EulerMaker) x86 & aarch64](https://eulermaker.compass-ci.openeuler.openatom.cn/api/ems1/repositories/jazzy_ament_package/openEuler%3A24.03-LTS/x86_64/)** | [(OBS) riscv64](https://build-repo.tarsier-infra.isrc.ac.cn/home:/Sebastianhayashi:/ROS-Jazzy/openEuler_24.03_Epol_mainline_riscv64/)
 ---
 
 ## 💡 Architecture Evolution (决策演进)
