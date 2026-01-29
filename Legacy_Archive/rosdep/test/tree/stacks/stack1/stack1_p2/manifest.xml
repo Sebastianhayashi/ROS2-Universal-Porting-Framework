@@ -1,0 +1,20 @@
+<package>
+  <description brief="stack1_p2">
+
+     stack1_p2
+
+  </description>
+  <author>Kenneth Conley</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/stack1_p2</url>
+
+  <rosdep name="stack1_dep1" />
+  <rosdep name="stack1_dep2" />
+
+  <rosdep name="stack1_p2_dep1" />
+
+  <depend package="stack1_p1" />
+</package>
+
+
